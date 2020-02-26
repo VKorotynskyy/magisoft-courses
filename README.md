@@ -1,0 +1,2 @@
+# magisoft-courses
+homeworks
